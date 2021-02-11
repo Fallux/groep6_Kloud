@@ -1,6 +1,27 @@
 body{
     background-color: blue;/*reageert kennelijk niet*/
 }
-#test{
-    background-color: aqua;
+.test{
+    background-color: rgba(255, 0, 0, 0.329);
 }
+/* .btn{
+    float: left;
+   margin-right: 50px;
+   margin-left: -30px;
+/* } */
+#plus{
+    font-size: 30px;
+    font-weight: bold;
+}
+#toevoegen{
+    font-size: 25px;
+    padding-top: -20px;
+    padding-bottom: -20px;
+} 
+.btn-success{
+   margin-left: 50px;
+}
+.btn-danger{
+    margin-right: 50px;
+    float: right;
+ }
