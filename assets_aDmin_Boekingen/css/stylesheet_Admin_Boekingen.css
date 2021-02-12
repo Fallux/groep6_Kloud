@@ -1,0 +1,17 @@
+body{
+    background-color: blue;/*reageert kennelijk niet*/
+}
+.test{
+    background-color: rgba(255, 0, 0, 0.329);
+}
+table{
+    margin-bottom: 5px;
+margin-left: auto;
+margin-right: auto;
+}
+.boekingGegevens{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.651);/*ik twijfel met border right*/
+}
